@@ -1,8 +1,8 @@
 # Linux command assignment
 
 ## Create a user
-To create a user on linux we use the command *sudo adduser username*, to create the user **epiphania**
-
+Create a user named **"epiphania"** using the useradd command: sudo useradd epiphania
+Set a password for the user **"epiphania"**
 ![create user](<create user-1.png>)
 
 
